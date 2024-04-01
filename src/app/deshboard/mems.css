@@ -1,0 +1,32 @@
+
+.card-data{
+    overflow: hidden;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+}
+.card-data img{
+    width: 300px;
+    height: 300px;
+}
+
+
+.btn-meme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 35px;
+    color: white;
+    background-color: blue;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-size: 20px;
+  
+}
